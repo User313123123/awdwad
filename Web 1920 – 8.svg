@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="clip-Web_1920_8">
+      <rect width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_8" data-name="Web 1920 – 8" clip-path="url(#clip-Web_1920_8)">
+    <rect width="1000" height="1000" fill="rgba(255,255,255,0)"/>
+    <path id="heart-15" d="M820.936,352.658C749.365,490.3,557.9,677.483,449.621,777.194a30.581,30.581,0,0,1-40.985,0C299.749,677.483,108.28,490.3,36.708,352.658-120.5,49.856,275.892-152.013,428.822,150.79,581.753-152.013,978.149,49.856,820.936,352.658Z" transform="translate(71.178 106.961)" fill="rgba(0,0,0,0)" stroke="#b0e0b0" stroke-width="130"/>
+  </g>
+</svg>
