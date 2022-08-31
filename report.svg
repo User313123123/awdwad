@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="clip-Web_1920_9">
+      <rect width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_9" data-name="Web 1920 – 9" clip-path="url(#clip-Web_1920_9)">
+    <rect width="1000" height="1000" fill="rgba(255,255,255,0)"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(18 18)" fill="rgba(255,255,255,0)" stroke="#b0e0b0" stroke-width="130">
+      <circle cx="482.5" cy="482.5" r="482.5" stroke="none"/>
+      <circle cx="482.5" cy="482.5" r="417.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="779" height="170" transform="translate(284.686 164.478) rotate(45)" fill="#b0e0b0"/>
+  </g>
+</svg>
